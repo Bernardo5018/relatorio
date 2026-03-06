@@ -6,6 +6,7 @@ Course: LEIC
 Student(s): Bernardo Rocha
 
 Date: 03/03/2026
+
 Repository URL: ___________--
 ## 1. Introduction
 <!-- Purpose of the assignment, problem description, and objectives.-->
